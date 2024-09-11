@@ -1,0 +1,6 @@
+Prompt Base:
+Crie um plano de treino personalizado para mim. Sou um(a) [biotipo corporal] com [número] dias por semana disponíveis para treinar. Prefiro exercícios [tipo de exercício].
+Deve ser capaz de citar nome de exercícios , séries , repetições e tempo de descanso.
+exercícios de Alongamentos e fornecer informações sobre execução correta dos exercícios para evitar lesões.
+Como melhorar: 
+Crie um plano de treino personalizado para mim. Sou um(a) [biotipo corporal] com [número] dias por semana disponíveis para treinar. Prefiro exercícios [tipo de exercício]. Sou [nível de experiência] e meu objetivo principal é [objetivo]. Tenho alguma restrição? [sim/não], [Se sim Conte qual]
